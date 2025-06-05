@@ -1,0 +1,4 @@
+Flask==2.3.2
+botbuilder-core==4.15.0
+botbuilder-ai==4.15.0
+botbuilder-core-integration=4.15.0
